@@ -31,14 +31,14 @@ I am analyzing over half a million unorganized sales records using advanced ETL 
 - Played a key role in benchmarking against industry peers and laying the groundwork for budgeting and forecasting.
 
 ## 	Technical Skills:
-- [x]	Proficient in ETL processes (Extract, Transform, Load), with hands-on experience in creating and optimizing data workflows.
-- [x]	Skilled in generating date tables using Power Query, ensuring accurate time-based analysis.
-- [x]	Experienced in deriving fiscal months and quarters to align with business reporting needs.
-- [x]	Proficient in establishing data model relationships using Power Pivot, enhancing data integrity and analysis.
-- [x]	Experienced in leveraging DAX to create dynamic calculated columns and complex metrics for advanced analytics.
+- [x]	**Proficient in ETL processes** (Extract, Transform, Load), with hands-on experience in creating and optimizing data workflows.
+- [x]	**Skilled in generating date tables** using **Power Query**, ensuring accurate time-based analysis.
+- [x]	Experienced in **deriving fiscal months and quarters** to align with business reporting needs.
+- [x]	**Proficient in establishing data model relationships** using **Power Pivot**, enhancing data integrity and analysis.
+- [x]	Experienced in leveraging **DAX** to create dynamic **calculated columns** and **complex metrics** for advanced analytics.
 
 ## 	Soft Skills:
-- [x]	Strong understanding of Sales and Finance Reports, with the ability to translate complex data into clear, actionable insights.
-- [x]	Skilled in designing user-friendly reports, always considering the end-user experience for better decision-making.
-- [x]	Experienced in optimizing report generation through detailed fine-tuning for faster, more accurate results.
-- [x] Adept at developing a structured approach to report building, ensuring efficient planning and execution.
+- [x]	**Strong understanding of Sales and Finance Reports**, with the ability to translate complex data into clear, actionable insights.
+- [x]	**Skilled in designing user-friendly reports**, always considering the end-user experience for better decision-making.
+- [x]	Experienced in **optimizing report generation** through detailed fine-tuning for faster, more accurate results.
+- [x] Adept at developing a **structured approach to report building**, ensuring efficient planning and execution.
