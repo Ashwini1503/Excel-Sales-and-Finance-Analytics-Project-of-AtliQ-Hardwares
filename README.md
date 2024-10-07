@@ -12,8 +12,8 @@ I am analyzing over half a million unorganized sales records using advanced ETL 
 
 ## PROJECT 1: SALES ANALYSIS AND REPORTING
 **Project objective:**
-- Create a detailed report on customer performance.
-- Perform a thorough analysis comparing market performance with sales target.
+- Create a detailed report on [customer performance](https://github.com/Ashwini1503/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf).
+- Perform a thorough analysis comparing [market performance with sales target](https://github.com/Ashwini1503/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Market%20Performance%20vs%20Target.pdf).
 
 **Key Achievements:**
 - Empowered businesses to track and assess their sales activities with greater efficiency.
@@ -22,8 +22,8 @@ I am analyzing over half a million unorganized sales records using advanced ETL 
 
 ## PROJECT 2: FINANCIAL ANALYSIS AND REPORTING
 **Project objective:**
-- Create detailed Profit and Loss (P&L) reports categorized by Fiscal Year and Months.
-- Produce P&L reports segmented by Markets.
+- Create detailed Profit and Loss (P&L) reports categorized by [Fiscal Year](https://github.com/Ashwini1503/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%26L%20by%20Fiscal%20Years.pdf) and by [Fiscal Months](https://github.com/Ashwini1503/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%26L%20by%20Fiscal%20Months.pdf).
+- Produce P&L reports segmented by [Markets](https://github.com/Ashwini1503/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%26L%20by%20Markets.pdf).
 
 **Key Achievements:**
 - Assessed financial performance in depth, enabling data-driven decision-making.
